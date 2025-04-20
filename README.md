@@ -1,5 +1,5 @@
-## Hi there ⚽
-My name is Nicolás García Peñaloza :soccer:, i'm from Armenia-Quindío (Colombia 	:colombia:)
+## Hi there :soccer:
+My name is Nicolás García Peñaloza :soccer:, i'm from Armenia-Quindío (Colombia 	:Colombia:)
 
 
 <!--
