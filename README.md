@@ -4,7 +4,7 @@
 *My favorite tools are*
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,python,r,tableau,postgresql" />
+    <img src="https://skillicons.dev/icons?i=git,github,python,r,latex,postgresql" />
   </a>
 </p>
 
