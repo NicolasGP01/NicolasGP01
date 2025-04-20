@@ -1,5 +1,5 @@
 ## :octocat: Hi there :soccer:
-My name is Nicolás García Peñaloza, I'm from Armenia-Quindío (Colombia 🇨🇴)
+**My name is Nicolás García Peñaloza, I'm from Armenia-Quindío (Colombia 🇨🇴)**
 
 
 <!--
