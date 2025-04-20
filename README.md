@@ -5,7 +5,7 @@
 ***********************************************
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,python,r,latex,postgresql" />
+   [![R](https://img.shields.io/badge/R-0A66C2?style=for-the-badge&logo=R&logoColor=5D8AA8)](https://cran.r-project.org/bin/windows/base/) <img src="https://skillicons.dev/icons?i=git,github,python,r,latex,postgresql" />
   </a>
 </p>
 
