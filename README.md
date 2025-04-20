@@ -1,12 +1,12 @@
 ## Hi there ⚽
-My name is Nicolás García Peñaloza, i'm from Armenia-Quindío (Colombia 	:colombia:)
+My name is Nicolás García Peñaloza :soccer:, i'm from Armenia-Quindío (Colombia 	:colombia:)
 
 
 <!--
 **NicolasGP01/NicolasGP01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
-
+https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md#table-of-contents
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
