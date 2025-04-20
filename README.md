@@ -1,5 +1,5 @@
 ## :octocat: Hi there :soccer:
-My name is Nicolás García Peñaloza, i'm from Armenia-Quindío (Colombia 	:Colombia:)
+My name is Nicolás García Peñaloza, i'm from Armenia-Quindío (Colombia 🇨🇴)
 
 
 <!--
@@ -7,6 +7,7 @@ My name is Nicolás García Peñaloza, i'm from Armenia-Quindío (Colombia 	:Col
 
 Here are some ideas to get you started:
 https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md#table-of-contents
+:Colombia:
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
