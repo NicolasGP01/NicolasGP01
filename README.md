@@ -2,11 +2,17 @@
 ***********************************************
 **My name is Nicolás García Peñaloza, I'm from Armenia-Quindío (Colombia 🇨🇴)**
 *My favorite tools are*
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim" />
+  </a>
+</p>
 
 <!--
 **NicolasGP01/NicolasGP01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
+https://www.flaticon.es/iconos-gratis/python
+https://github.com/tandpfun/skill-icons
 https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md#table-of-contents
 :Colombia:
 https://www.webfx.com/tools/emoji-cheat-sheet/
